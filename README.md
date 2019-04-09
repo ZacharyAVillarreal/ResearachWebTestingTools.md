@@ -1,9 +1,9 @@
 # ResearachWebTestingTools.md
 Name: Selenium
 Company: First used by ThoughtWorks originally created by Jason Huggins
-1. 
-2.
-3.
+#1. 
+#2.
+#3.
 
 
 Name: Katalon Studio
